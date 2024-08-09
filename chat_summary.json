@@ -24,5 +24,11 @@
         "content": "add a button that says hello world",
         "timestamp": "09082024023204",
         "message_id": "guest09082024023204"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"At the top of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"What functionality should occur when the 'Hello World' button is pressed?\", \"option1\": \"Display a 'Hello World' message on the screen\", \"option2\": \"Navigate to a new screen with blockchain information\"}], \"input_token_count\": 308, \"output_token_count\": 107, \"time_taken\": \"0:00:04.346158\"}",
+        "timestamp": "09082024023210",
+        "message_id": "guest09082024023204"
     }
 ]
