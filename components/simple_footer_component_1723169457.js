@@ -16,7 +16,8 @@ Vue.component("simple_footer_component_1723169457", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-white">
                         © 2023 BlockScan. Empowering blockchain explorers with real-time insights and discoveries.
-                    </div>
+                        © 2023 BlockScan. Empowering blockchain explorers with real-time insights and discoveries.
+                        <button class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 transition-colors duration-300">Hello World</button>
                 </div>
             </div>
         </footer> 
